@@ -1,0 +1,7 @@
+name: ae598-rl
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - jupyter
+prefix: /Users/httran/opt/anaconda3/envs/ae598-rl
