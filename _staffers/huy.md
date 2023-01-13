@@ -1,5 +1,5 @@
 ---
-name: Huy T. Tran
+staffer-name: Huy T. Tran
 pronouns: he/him/his
 role: Instructor
 email: huytran1@illinois.edu
