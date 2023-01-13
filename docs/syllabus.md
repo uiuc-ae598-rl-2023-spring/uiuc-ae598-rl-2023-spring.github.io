@@ -21,7 +21,7 @@ This course will discuss the theory and practice of reinforcement learning (RL) 
 
 ## Course Materials
 
-Links to all lecture material and assignments will be posted on the [Schedule]({{ site.baseurl }}/schedule) page.
+Links to all lecture material and assignments will be posted on the [Schedule]({{ site.baseurl }}/schedule) page. Links to lecture recordings are available on Media Space.
 
 Lectures will draw from the following books, which are currently free in PDF form:
 - ["Reinforcement Learning: An Introduction"](http://www.incompleteideas.net/book/the-book-2nd.html) by Sutton and Barto (MIT Press, 2018)
