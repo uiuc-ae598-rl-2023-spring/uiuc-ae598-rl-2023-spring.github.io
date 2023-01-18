@@ -3,7 +3,8 @@ title: Week 1
 ---
 
 Tues Jan 17
-: [Introduction]({{ site.baseurl }}/assets/lectures/lec1-intro.pdf)
+: **LEC 1**{: .label .label-grey }[Introduction](https://campuswire.com/c/G6BF46F7E/lectures/1)
+    : [GitHub tutorial (opt)](https://classroom.github.com/a/Svf82ZiY)
 
-<!-- Thurs Jan 19
-: -->
+Thurs Jan 19
+: **LEC 2**{: .label .label-grey }[MDPs]()
