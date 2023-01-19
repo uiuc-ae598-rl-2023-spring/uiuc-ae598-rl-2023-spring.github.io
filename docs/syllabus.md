@@ -59,13 +59,17 @@ See the [Resources]({{ site.baseurl }}/resources) page for resources related to 
 
 **Projects**: This course will involve a final project. The project will be open-ended and aims to offer you an opportunity to implement your choice of methods and apply them to a research problem of interest to you.
 
+**Literature Reviews**: You will perform two literature reviews throughout the course. One will be a group assignment where you work with 2-3 others to understand and present details for a seminal paper within a current topic being discussed in class. The other will be an individual assignment where you independently identify a paper related to a different topic, write up a brief literature review (1-3 paragraphs) summarizing the paper, and present a 1-slide summary to the class. You will sign-up for topics of interest - you will only do each type of review once.
+
+Online students: for the group literature review, you will work with others but not be required to present. For the individual review, you will record the 1-slide summary to be presented in class.
+
 **Drop Pollicy:** Your lowest homework grade will be dropped.
 
 **Late Policy:** Late homework and project submissions will be accepted up to 72 hours after the deadline with the following deductions: 10% (within 24 hours of the deadline), 15% (within 48 hours of the deadline), and 20% (within 72 hours of the deadline).
 
 # Grading
 
-Your final grade will calculated from homeworks (70%) and the project (30%). The following grading scale will be used:
+Your final grade will calculated from homeworks (50%), the project (25%), and literature reviews (15% for group, 10% for individual). The following grading scale will be used:
 
 | Grade | Point Range |
 | --- | --- |
