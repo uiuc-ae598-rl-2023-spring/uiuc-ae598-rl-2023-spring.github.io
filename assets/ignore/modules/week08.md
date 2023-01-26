@@ -1,10 +1,11 @@
 ---
-title: Week 8
+title: Week 8 (Advanced Topics)
 ---
 
 Tues Mar 7
-: **Lab**{: .label .label-purple }[Project 1 (Group)]({{ site.baseurl }}/assets/lectures/project1-group.pdf)
-: **Project 1 (Group) Assigned**{: .label .label-yellow }**Quiz 7 Due**{: .label .label-red }
+: **LEC 10**{: .label .label-grey }Successor models
+: **LIT 3.1**{: .label .label-purple }Actor-critic
 
-Thurs Mar 9
-: **Lab**{: .label .label-purple }Project 1 (Group)
+Thu Mar 9
+: **LEC 10**{: .label .label-grey }Successor models
+: **LIT 3.2**{: .label .label-purple }Actor-critic
