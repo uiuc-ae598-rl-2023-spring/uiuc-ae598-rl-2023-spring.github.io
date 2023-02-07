@@ -20,7 +20,7 @@ nav_order: 4
 - Value function approximation
 - Policy gradient methods
 - Actor-critic methods
-- Model-based RL?
+- Model-based RL and online planning
 
 ### Advanced Topics
 - Successor models
