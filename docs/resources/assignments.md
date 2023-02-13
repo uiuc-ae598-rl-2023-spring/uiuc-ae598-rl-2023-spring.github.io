@@ -43,8 +43,11 @@ See the [Common Commands]({{ site.baseurl }}/resources/common-commands/#git) pag
 
 ## 4. Submit the assignment on Gradescope
 
-Save and submit your assignment to Gradescope.
-<!-- Push the files you want graded to the `main` branch of your assignment repository on GitHub. We will grade whatever is in the `main` branch on GitHub, so **make sure you push the files you want graded there.** -->
+Save and submit your assignment to Gradescope. If appropriate, choose GitHub as the submission method. Make sure you submit the appropriate repository and branch. You may need to authorize Gradescope to access your repository.
+
+If this is a pair-programming submission, you will need to associate all team members with the submission. After you upload your files, click “Add Group Member” and add your partner to the submission.
+
+You can submit multiple times before the deadline. Your last submission will determine your grade.
 
 ---
 
