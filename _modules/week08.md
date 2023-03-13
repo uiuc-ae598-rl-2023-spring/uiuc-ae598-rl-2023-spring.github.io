@@ -9,4 +9,5 @@ Tues Mar 7
 
 Thu Mar 9
 : **LEC 8**{: .label .label-grey }Model-based RL and Online Planning
+    : **PROJ**{: .label .label-purple }[Proposal Sign-up](https://docs.google.com/spreadsheets/d/1apnZurssil3dkdG9aUoRfTS__ZODv1xwE9Zvuy5t3Vs/edit?usp=sharing)
 : **LIT 1.2**{: .label .label-purple }Value Function Approx.
