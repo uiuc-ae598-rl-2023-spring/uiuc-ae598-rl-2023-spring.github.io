@@ -59,7 +59,7 @@ See the [Resources]({{ site.baseurl }}/resources) page for resources related to 
 
 **Projects**: This course will involve a final project. The project will be open-ended and aims to offer you an opportunity to implement your choice of methods and apply them to a research problem of interest to you.
 
-**Literature Reviews**: You will perform two literature reviews throughout the course. One will be a group assignment where you work with 2-3 others to understand and present details for a seminal paper within a current topic being discussed in class. The other will be an individual assignment where you independently identify a paper related to a different topic, write up a brief literature review (1-3 paragraphs) summarizing the paper, and present a 1-slide summary to the class. You will sign-up for topics of interest - you will only do each type of review once.
+**Literature Reviews**: You will perform two literature reviews throughout the course. One will be a group assignment where you work with 2-3 others to understand and present details for a seminal paper within a current topic being discussed in class. The other will be an individual assignment where you independently identify a paper related to a topic (different from your group literature review) and present a short summary to the class (3-5 minutes). You will sign-up for topics of interest - you will only do each type of review once.
 
 Online students: for the group literature review, you will work with others but not be required to present. For the individual review, you will record the 1-slide summary to be presented in class.
 
