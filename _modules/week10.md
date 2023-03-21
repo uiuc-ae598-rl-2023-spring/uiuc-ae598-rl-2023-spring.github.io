@@ -8,3 +8,4 @@ Tues Mar 21
 
 Thu Mar 23
 : NO CLASS (project proposal)
+    : **SURVEY**{: .label .label-purple }[Survey 2](https://forms.gle/iVJPe9usyyLYzapd6) 
